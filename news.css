@@ -1,0 +1,185 @@
+.recent-news-div {
+  background-color: #f9ecdc;
+  width: 100%;
+  height: 20em;
+  padding-top: 5em;
+}
+.recent-news {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+.happenings {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+.batch-c-pargh {
+  margin-top: 1em;
+  font-size: 17px;
+  font-weight: 450;
+  word-spacing: 2px;
+}
+.batch-c-pargh1 {
+  margin-top: 2em;
+  font-size: 17px;
+  font-weight: 450;
+  word-spacing: 2px;
+}
+#batch-c-div {
+  padding-left: 2em;
+}
+.news-image1 {
+  width: 28em;
+  height: 18em;
+  margin-left: 5em;
+}
+#overall-batch-c {
+  padding-top: 10em;
+}
+.call-center-section {
+  background-color: #fcfcfc;
+  margin-top: 10em;
+  padding-top: 10em;
+  height: 43em;
+}
+.news-image2 {
+  width: 32em;
+  height: 22em;
+}
+.call-center-pargh1 {
+  font-weight: 400;
+  font-size: 17px;
+}
+.call-center-pargh {
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 1.5em;
+}
+.call-center-div {
+  margin-top: 2em;
+}
+.number-link {
+  color: black;
+}
+.support-link {
+  color: #28887a;
+}
+.test-portal {
+  word-spacing: 2px;
+}
+.news-instructions {
+  font-size: 18px;
+}
+.please-make-sure {
+  font-size: 17px;
+  font-weight: 400;
+}
+.for-first-time {
+  font-size: 18px;
+  font-weight: 700;
+}
+.list1 {
+  margin-top: 0.8em;
+  font-size: 17px
+  font-weight: 400;
+}
+.after-successfully {
+font-size: 17px;
+font-weight: 400;
+}
+.list2-div {
+  margin-top: 2em;
+}
+.note {
+  font-weight: 600;
+}
+.this-test-is {
+  font-size: 17px;
+  font-weight: 400;
+}
+.ordered-list2 {
+margin-top: 1.5em;
+}
+.list2 {
+  font-size: 15px;
+  font-weight: 450;
+  margin-top: 0.8em;
+}
+.other-enquiry {
+  font-size: 17px;
+  font-weight: 700;
+  word-spacing: 2px;
+  margin-top: 1em;
+}
+#test-portal-div {
+  padding-left: 1.5em;
+}
+#news-image3-div {
+  padding-left: 8em;
+}
+.test-portal-section {
+  padding-top: 10em;
+}
+.social-div {
+  background-color: black;
+  height: 15em;
+  padding-top: 3em;
+  margin-top: 4em;
+}
+.be-the-first {
+  color: #D0D0D0;
+  text-align: center;
+}
+.follow-us {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.questions-div {
+  padding-top: 3em;
+}
+.got-questions {
+  font-family: sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+.for-enquiries {
+  text-align: center;
+  padding-bottom: 10px;
+  color: #747678;
+  font-weight: 600;
+}
+#contact-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+  margin-left: 35em;
+}
+.footer1 {
+  background-color: #07321b;
+  width: 100%;
+  height: 15em;
+}
+.apply {
+  text-align: center;
+  color: white;
+  word-spacing: 20px;
+  font-weight: bold;
+  margin-top: 3em;
+  padding-top: 3em;
+}
+.copyright {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 5em;
+}
+.june25-line {
+  background-color: #fbce66;
+  width: 60px;
+  height: 2px;
+
+}

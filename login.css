@@ -1,0 +1,60 @@
+.login-div2 {
+  background-color: #dbf9ea;
+  height: 42em;
+  width: 30em;
+  margin-top: 5em;
+  margin-left: 0.8em;
+  padding-top: 3em;
+  padding-left: 2em;
+}
+.login-to {
+  font-family: sans-serif;
+  font-weight: 550;
+}
+.for-biometrics {
+  color: #288855;
+  font-weight: 649;
+  font-size: 17px;
+}
+.ordered-list1 {
+  font-weight: 400;
+  margin-top: 0.7em;
+}
+.after-successful {
+  font-weight: 450;
+  color: #398a5a;
+  margin-left: 2em;
+}
+#input-div {
+  padding-top: 20em;
+  padding-left: 16.5em;
+}
+.email {
+  width: 22em;
+  height: 50px;
+  border-radius: 5px;
+  border-color: #ced4da;
+}
+.password {
+  width: 22em;
+  height: 50px;
+  border-radius: 5px;
+  border-color: #ced4da;
+}
+.password-div {
+  margin-top: 1.5em;
+}
+#forgot-password-div {
+  margin-top: 1.5em;
+}
+.forgot-link {
+  color: #288855;
+  font-weight: 500;
+  font-size: 17px;
+}
+#login-button {
+  width: 22em;
+  height: 50px;
+  background-color: #74b291;
+  margin-top: 1em;
+}

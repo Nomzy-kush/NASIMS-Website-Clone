@@ -1,0 +1,160 @@
+.everything {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+.about-nasims {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+.about-div1 {
+  background-image: url(images/about-hero.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  padding-top: 5.5em;
+  opacity: 0.9;
+}
+.about-img2 {
+  width: 28em;
+  height: 18em;
+  margin-left: 1em;
+}
+#overview-div {
+  padding-top: 8em;
+}
+.the-national {
+  margin-top: 2.5em;
+  font-weight: 500;
+  word-spacing: 5px;
+}
+.fourth-section {
+  background-color: #fffbf6;
+  padding-top: 8em;
+  margin-top: 9em;
+}
+.four-programs {
+  text-align: center;
+}
+.fourth-img {
+  width: 12em;
+  height: 11em;
+  margin-left: 10em;
+}
+#fourth-pargh-div {
+  padding-left: 6em;
+}
+#program-row {
+  margin-top: 4em;
+}
+.program-pargh {
+  font-size: 16px;
+  font-weight: 400;
+  word-spacing: 3px;
+}
+.program-link {
+  color: #28885f;
+  font-weight: 500;
+  font-size: 16px;
+}
+.overall-program-div {
+  margin-top: 4em;
+}
+.latest-news {
+  text-align: center;
+  margin-top: 5em;
+  font-size: 25px;
+}
+.keep-up {
+  text-align: center;
+  color: #86888a;
+  font-weight: bold;
+  margin-top: 1em;
+  word-spacing: 3px;
+}
+#card-header {
+  font-size: 20px;
+  font-weight: bold;
+}
+.june-25 {
+  color: #959799;
+  font-size: 12px;
+}
+#latestnews-div {
+  margin-left: 5px;
+  margin-top: 4em;
+}
+#latest-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+  margin-left: 35em;
+  margin-top: 5em;
+}
+.social-div {
+  background-color: black;
+  height: 15em;
+  padding-top: 3em;
+  margin-top: 4em;
+}
+.be-the-first {
+  color: #D0D0D0;
+  text-align: center;
+}
+.follow-us {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.questions-div {
+  padding-top: 3em;
+}
+.got-questions {
+  font-family: sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+.for-enquiries {
+  text-align: center;
+  padding-bottom: 10px;
+  color: #747678;
+  font-weight: 600;
+}
+#contact-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+  margin-left: 35em;
+}
+.footer1 {
+  background-color: #07321b;
+  width: 100%;
+  height: 15em;
+}
+.apply {
+  text-align: center;
+  color: white;
+  word-spacing: 20px;
+  font-weight: bold;
+  margin-top: 3em;
+  padding-top: 3em;
+}
+.copyright {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 5em;
+}
+.june25-line {
+  background-color: #fbce66;
+  width: 60px;
+  height: 2px;
+
+}

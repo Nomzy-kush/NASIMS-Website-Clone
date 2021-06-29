@@ -1,0 +1,224 @@
+.first-home-image {
+  width: 50px;
+  height: 50px;
+}
+.federal-ministry {
+  margin-left: 2em;
+  font-size: 17px;
+}
+#first-link {
+  color: #4c4c4c;
+  font-size: 400;
+  font-size: 16px;
+}
+#nav-button {
+  width: 13em;
+  height: 3.5em;
+  background-color: #288855;
+  margin-top: -10px;
+  font-weight: bold;
+}
+#nav-div {
+  padding-left: 8em;
+}
+#overall-nav-div {
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  margin-top: -8em;
+}
+.first-underline-div {
+  background-color: #278654;
+  width: 4em;
+  height: 3.5px;
+  margin-top: -1.5em;
+  margin-left: 4px;
+}
+.second-section {
+  margin-top: 8em;
+}
+.nasimNav-logo {
+  width: 10em;
+  height: 10em;
+}
+.carousel-header1 {
+  font-size: 25px;
+  font-weight: 400;
+}
+.second-line {
+  width: 10em;
+  height: 2px;
+}
+
+
+.small-div {
+  background-color: black;
+  width: 100%;
+  height: 4em;
+}
+.small-pargh {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 1em;
+}
+.small-link {
+  color: #25744a;
+  padding-left: 8px;
+}
+.president-image {
+  width: 28em;
+  height: 25em;
+  margin-left: 8em;
+}
+#president-div {
+  padding-top: 7em;
+}
+.president-link {
+  color: #288876;
+}
+.president-pargh {
+  color: #86888a;
+  margin-top: 3em;
+}
+.president-pargh2 {
+  color: #86888a;
+  margin-top: 3em;
+}
+.about-us {
+  color: #f9ae00;
+  font-weight: bold;
+}
+.about-pargh {
+  color: #86888a;
+  font-weight: bold;
+  margin-top: 3em;
+}
+#about-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+  margin-top: 2em;
+}
+#about-div {
+  padding-left: 2em;
+}
+#about-img {
+  padding-left: 13em;
+}
+.about-section {
+  padding-top: 18em;
+}
+.about-header {
+  font-weight: bold;
+}
+#card-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+}
+#card-button2 {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #dbf9ea;
+  color: #288855;
+}
+.latest-news {
+  text-align: center;
+  margin-top: 5em;
+  font-size: 25px;
+}
+.keep-up {
+  text-align: center;
+  color: #86888a;
+  font-weight: bold;
+  margin-top: 1em;
+  word-spacing: 3px;
+}
+#card-header {
+  font-size: 20px;
+  font-weight: bold;
+}
+.june-25 {
+  color: #959799;
+  font-size: 12px;
+}
+#latestnews-div {
+  margin-left: 5px;
+  margin-top: 4em;
+}
+#latest-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+  margin-left: 35em;
+  margin-top: 5em;
+}
+.social-div {
+  background-color: black;
+  height: 15em;
+  padding-top: 3em;
+  margin-top: 4em;
+}
+.be-the-first {
+  color: #D0D0D0;
+  text-align: center;
+}
+.follow-us {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.questions-div {
+  padding-top: 3em;
+}
+.got-questions {
+  font-family: sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+.for-enquiries {
+  text-align: center;
+  padding-bottom: 10px;
+  color: #747678;
+  font-weight: 600;
+}
+#contact-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  height: 55px;
+  background-color: #288855;
+  margin-left: 35em;
+}
+.footer1 {
+  background-color: #07321b;
+  width: 100%;
+  height: 15em;
+}
+.apply {
+  text-align: center;
+  color: white;
+  word-spacing: 20px;
+  font-weight: bold;
+  margin-top: 3em;
+  padding-top: 3em;
+}
+.copyright {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 5em;
+}
+.june25-line {
+  background-color: #fbce66;
+  width: 60px;
+  height: 2px;
+
+}
