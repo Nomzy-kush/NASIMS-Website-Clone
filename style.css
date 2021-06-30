@@ -19,13 +19,13 @@
   font-weight: bold;
 }
 #nav-div {
-  padding-left: 8em;
+  padding-left: 5em;
 }
 #overall-nav-div {
   padding-top: 2em;
   padding-bottom: 1.5em;
   background-color: white;
-  width: 100%;
+  width: 90em;
   position: fixed;
   z-index: 1;
   margin-top: -8em;
@@ -47,13 +47,48 @@
 .carousel-header1 {
   font-size: 25px;
   font-weight: 400;
+  margin-top: 1em;
 }
-.second-line {
-  width: 10em;
-  height: 2px;
+.hero-header1 {
+  font-size: 40px;
+  font-weight: bold;
 }
+.hero-pargh1 {
+  font-size: 17px;
+  font-weight: 400;
+  margin-top: 2em;
+}
+#col1-div {
+  padding-left: 8em;
+  width: 100%;
+  padding-top: 2em;
+}
+#col2-div {
+  padding-left: 8em;
+  padding-top: 2em;
+}
+#col3-div {
+  padding-left: 8em;
+  padding-top: 2em;
+}
+#g21 {
+  background-color: #fffbf6;
 
-
+}
+#g22 {
+  background-color: #fcf4f2;
+}
+#g23 {
+  background-color: #f2fcf9;
+}
+.read-more-link {
+  color: #288855;
+  font-weight: bold;
+}
+.hero-image1 {
+  height: 40em;
+  width: 100%;
+}
 .small-div {
   background-color: black;
   width: 100%;
@@ -116,6 +151,36 @@
 .about-header {
   font-weight: bold;
 }
+.card-section {
+  background-color: #f2fcf9;
+  padding-top: 4em;
+  height: 55em;
+}
+.our-programmes-header {
+  text-align: center;
+  font-size: 27px;
+  font-weight: 650;
+}
+.our-programmes-pargh {
+  text-align: center;
+  font-size: 17px;
+  font-weight: 500;
+  color: #808687;
+  margin-top: 1em;
+}
+#card-div {
+  "width: 40rem;
+  height: 600px;
+  margin-left: 1em;
+  border-radius: 3.5px;
+  box-shadow: 3px 3px 3px 3px grey;
+}
+
+}
+#market-image {
+  height: 15em;
+}
+
 #card-button {
   padding-left: 4em;
   padding-right: 4em;
@@ -128,6 +193,7 @@
   height: 55px;
   background-color: #dbf9ea;
   color: #288855;
+  margin-left: 1em;
 }
 .latest-news {
   text-align: center;
