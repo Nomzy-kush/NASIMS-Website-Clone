@@ -1,8 +1,46 @@
+.nasims-logo {
+  width: 65px;
+  height: 65px;
+  margin-left: 2em;
+  margin-top: -0.5em;
+}
+#first-link {
+  color: #4c4c4c;
+  font-size: 400;
+  font-size: 16px;
+}
+#nav-button {
+  width: 13em;
+  height: 3.5em;
+  background-color: #288855;
+  margin-top: -10px;
+  font-weight: bold;
+}
+#nav-div {
+  padding-left: 5em;
+
+}
+#overall-nav-div {
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+  background-color: white;
+  width: 90em;
+  position: fixed;
+  z-index: 1;
+  margin-top: -0.5em;
+}
+.first-underline-div {
+  background-color: #278654;
+  width: 3.5em;
+  height: 3.5px;
+  margin-top: -1.5em;
+  margin-left: 10em;
+}
 .recent-news-div {
   background-color: #f9ecdc;
   width: 100%;
-  height: 20em;
-  padding-top: 5em;
+  height: 28em;
+  padding-top: 14em;
 }
 .recent-news {
   color: black;
