@@ -280,11 +280,18 @@
   text-align: center;
   color: white;
   font-weight: bold;
-  margin-top: 5em;
+  margin-top: 2em;
 }
 .june25-line {
   background-color: #fbce66;
   width: 60px;
   height: 2px;
 
+}
+.icon-image {
+  width: 1.2em;
+  height: 1em;
+}
+.icon-image-div {
+  padding-left: 39em;
 }
